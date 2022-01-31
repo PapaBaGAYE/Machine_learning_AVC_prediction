@@ -1,1 +1,1 @@
-# Machine_learning_stroke_prediction
+# Machine_learning_AVC_prediction
